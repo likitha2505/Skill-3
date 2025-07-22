@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://likitha2505.github.io/Skill 3",
+  "homepage": "https://likitha2505.github.io/Skill-3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
